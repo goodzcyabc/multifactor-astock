@@ -1,0 +1,12 @@
+{
+  "n_codes": 1608,
+  "n_signal_dates": 129,
+  "first_signal": "2015-12-31",
+  "last_signal": "2026-08-31",
+  "bt_start": "2016-01-04",
+  "bt_end": "2026-08-31",
+  "avg_pool": 786.4728682170543,
+  "unfilled_total": 8,
+  "delisted_holdings_total": 0,
+  "runtime_min": 0.8767026782035827
+}
